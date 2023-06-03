@@ -51,11 +51,7 @@ const Timeline = () => {
         Ao longo da minha jornada como desenvolvedor frontend me esforço a me especializar em ReactJS.<br />
         Focando sempre na qualidade dos códigos. 
       </SectionText>
-    <SelectionText>
-       Então, se você está enfrentando desafios na programação, saiba que você não está sozinho. <br/>
-        Cada obstáculo que você supera é um passo em direção ao crescimento e ao domínio dessa arte. Mantenha-se firme, aprenda com seus erros e deixe sua paixão pela programação guiá-lo. O caminho pode ser árduo, mas as recompensas são infinitas.<br/> 
-        Juntos, podemos superar qualquer tragédia e criar um futuro brilhante na programação.
-    </SelectionText>
+    
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
