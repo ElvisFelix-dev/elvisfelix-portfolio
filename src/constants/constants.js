@@ -52,7 +52,7 @@ export const projects = [
     description: "Portifolio para Fotografos.",
     image: '/images/photographer.png',
     tags: ['HMTL5', 'CSS3', 'ReactJS'],
-    visit: 'https://houseyour.netlify.app/',
+    visit: 'https://photographer-sofia.netlify.app/',
     id: 7,
   },
   {
