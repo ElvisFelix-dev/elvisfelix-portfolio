@@ -8,8 +8,8 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Tecnologias</SectionTitle>
     <SectionText>
-      Trabalho com tecnologias web, ReactJS, NextJS. <br/>
-      Do Front-end ao Back-end
+      Trabalho com tecnologias web, ReactJS, Front-end.
+       
     </SectionText>
     <List>
       <ListItem>
@@ -32,7 +32,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
           Experiencia com <br />
-            Node and Databases
+            Node.
           </ListParagraph>
         </ListContainer>
       </ListItem>
