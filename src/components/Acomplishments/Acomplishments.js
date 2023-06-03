@@ -10,7 +10,7 @@ const data = [
 ];
 
 const Acomplishments = () => (
-  <Section>
+  <Section id="file">
     <SectionTitle>Arquivo Pessoal</SectionTitle>
     <Boxes>
       {data.map((card, index) => (
