@@ -29,7 +29,12 @@ const Header = () =>  (
         <Link href="#about">
           <NavLink>Sobre</NavLink>
         </Link>
-      </li>        
+      </li> 
+      <li>
+        <Link href="#file">
+          <NavLink>Arquivo</NavLink>
+        </Link>
+      </li>
     </Div2>
       <Div3>
         <SocialIcons href="https://github.com/ElvisFelix-dev" target="_blank">
