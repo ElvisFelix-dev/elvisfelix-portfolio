@@ -51,10 +51,6 @@ const Timeline = () => {
         Ao longo da minha jornada como desenvolvedor frontend me esforço a me especializar em ReactJS.<br />
         Focando sempre na qualidade dos códigos. 
       </SectionText>
-      <SectionText>
-        Aprendi a enfrentar os desafios de frente, a buscar soluções criativas e a não ter medo de explorar novas abordagens. O JavaScript se tornou meu companheiro constante, <br/>
-         e juntos enfrentamos as complexidades dos componentes, as nuances do design responsivo e as demandas dos clientes.<br/>
-      </SectionText>
     <SelectionText>
        Então, se você está enfrentando desafios na programação, saiba que você não está sozinho. <br/>
         Cada obstáculo que você supera é um passo em direção ao crescimento e ao domínio dessa arte. Mantenha-se firme, aprenda com seus erros e deixe sua paixão pela programação guiá-lo. O caminho pode ser árduo, mas as recompensas são infinitas.<br/> 
