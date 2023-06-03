@@ -15,7 +15,7 @@ const Home = () => {
       <Head>
         <title>Portfolio - Eyes Green</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <meta name="description" content="Portfolio - Eyes Green" />
+        <meta name="description" content="Portfolio - Elvis Felix" />
       </Head>
       <Section grid>
         <Hero />
