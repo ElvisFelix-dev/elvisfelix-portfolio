@@ -13,7 +13,8 @@ const Hero = (props) => (
           Meu Portfólio Profissional.
         </SectionTitle>
         <SectionText>
-          Objetivo da Eyes Green, é ajudar a sua empresa à crescer no mundo online, desenvolvendo landing pages e sistemas personalizados
+          Hoje, continuo minha jornada, trabalhando incansavelmente para criar experiências de usuário excepcionais.<br />
+          A minha historia na programação se transformou em uma luta de superação e perseverança.
         </SectionText>
       </LeftSection>
     </Section>
