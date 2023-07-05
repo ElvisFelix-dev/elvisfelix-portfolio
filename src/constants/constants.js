@@ -56,7 +56,7 @@ export const projects = [
     id: 7,
   },
   {
-    title: 'Escritorio de Advogacia Moderno',
+    title: 'Escritorio de Advocacia Moderno',
     description: "Landing Page para Escritorio de Advocacia.",
     image: '/images/advogacia.png',
     tags: ['HMTL5', 'CSS3', 'ReactJS', 'Taildwindcss'],
