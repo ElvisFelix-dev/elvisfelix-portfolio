@@ -71,12 +71,18 @@ export const projects = [
     visit: 'https://callservice.netlify.app/',
     id: 8,
   },
+  {
+    title: 'Barber',
+    description: "SPA, para barbearias.",
+    image: '/images/barber.png',
+    tags: ['ReactJS', 'Styled-components', 'EmailJS'],
+    visit: 'https://barbeariashop.netlify.app',
+    id: 9,
+  },
 ];
 
 export const TimeLineData = [
   { year: 2018, text: 'Iniciei com os estudos da programação', },
-  { year: 2020, text: 'Trabalhando como freelancer', },
-  { year: 2021, text: 'Trabalhando como freelancer', },
   { year: 2022, text: 'Trabalhando como freelancer', },
   { year: 2023, text: 'Trabalhando como freelancer', },
 ];
