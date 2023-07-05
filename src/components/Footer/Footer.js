@@ -1,5 +1,5 @@
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillFileText } from 'react-icons/ai';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
@@ -33,6 +33,9 @@ const Footer = () => {
           <SocialIcons href="https://www.instagram.com/2system_dev/" target="_blank">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
+        <SocialIcons href="https://elvisfelix-certificate.netlify.app/" target="_blank">
+          <AiFillFileText size="3rem"/>
+        </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>
