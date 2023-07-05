@@ -57,7 +57,7 @@ export const projects = [
   },
   {
     title: 'Escritorio de Advogacia Moderno',
-    description: "Landing Page para Escritorio de Advogacia.",
+    description: "Landing Page para Escritorio de Advocacia.",
     image: '/images/advogacia.png',
     tags: ['HMTL5', 'CSS3', 'ReactJS', 'Taildwindcss'],
     visit: 'https://advogaciamoderna.netlify.app/',
