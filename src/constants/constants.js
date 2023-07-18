@@ -16,6 +16,14 @@ export const projects = [
     id: 1,
   },
   {
+    title: Studio Tattoo',
+    description: "Modelo de landing page, para studio de tattoo.",
+      image: '/images/PC.png',
+      tags: ['React', 'Tailwindcss', 'Google-Maps', 'EmailJS'],
+    visit: 'https://studioinkzone.netlify.app',
+    id: 1,
+  },
+  {
     title: 'Landing Page',
     description: "Uma landing page, com as informações e historia de uma empresa fictícia.",
     image: '/images/tftech.png',
