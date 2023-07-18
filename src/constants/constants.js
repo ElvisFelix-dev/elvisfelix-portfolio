@@ -87,6 +87,14 @@ export const projects = [
     visit: 'https://barbeariashop.netlify.app',
     id: 10,
   },
+  {
+    title: 'Personal Finance',
+    description: "Aplicação para controlar financia pessoal.",
+    image: '/images/personalfinance.png',
+    tags: ['ReactJS', 'Tailwindcss', 'Firebase'],
+    visit: 'https://finance-personal.netlify.app',
+    id: 10,
+  },
 ];
 
 export const TimeLineData = [
