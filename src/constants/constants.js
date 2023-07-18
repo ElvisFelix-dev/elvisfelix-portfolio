@@ -16,7 +16,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: Studio Tattoo',
+    title: 'Studio Tattoo',
     description: "Modelo de landing page, para studio de tattoo.",
       image: '/images/PC.png',
       tags: ['React', 'Tailwindcss', 'Google-Maps', 'EmailJS'],
