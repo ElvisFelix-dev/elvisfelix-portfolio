@@ -21,7 +21,7 @@ export const projects = [
       image: '/images/PC.png',
       tags: ['React', 'Tailwindcss', 'Google-Maps', 'EmailJS'],
     visit: 'https://studioinkzone.netlify.app',
-    id: 1,
+    id: 2,
   },
   {
     title: 'Landing Page',
@@ -77,7 +77,7 @@ export const projects = [
     image: '/images/callservice.png',
     tags: ['ReactJS', 'Styled-components', 'Firebase'],
     visit: 'https://callservice.netlify.app/',
-    id: 8,
+    id: 9,
   },
   {
     title: 'Barber',
@@ -85,7 +85,7 @@ export const projects = [
     image: '/images/barber.png',
     tags: ['ReactJS', 'Styled-components', 'EmailJS'],
     visit: 'https://barbeariashop.netlify.app',
-    id: 9,
+    id: 10,
   },
 ];
 
