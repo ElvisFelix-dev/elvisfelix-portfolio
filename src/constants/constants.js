@@ -125,7 +125,7 @@ export const projects = [
     image: '/images/localpoint.png',
     tags: ['ReactJS', 'Tailwindcss', 'Google-Maps', 'MongoDB'],
     visit: 'https://localpoint.netlify.app',
-    id: 1,
+    id: 13,
   },
   {
     title: 'Personal Finance',
@@ -134,6 +134,14 @@ export const projects = [
     tags: ['ReactJS', 'Tailwindcss', 'Firebase'],
     visit: 'https://finance-personal.netlify.app',
     id: 14,
+  },
+  {
+    title: 'NearDev',
+    description: "Plataforma para localizar devs.",
+    image: '/images/neardev.png',
+    tags: ['ReactJS', 'Tailwindcss', 'mongodb', 'Socket.io'],
+    visit: 'https://neardev.netlify.app',
+    id: 15,
   },
 ];
 
